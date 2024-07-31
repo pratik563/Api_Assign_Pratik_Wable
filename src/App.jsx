@@ -1,4 +1,5 @@
-//This project has been created using AG-Grid (Javascript Library) + Vite+React and for styling "Tailwind Css" is used.
+//This project is created using AG-Grid (Javascript Library) + Vite+React and for styling "Tailwind Css" is used.
+// Pagination , Sorting and Filtering is added
 
 // Importing useState and useEffect hooks
 import React, { useState, useEffect } from "react";
